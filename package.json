@@ -1,11 +1,17 @@
 {
   "name": "com.kamuuucka.hierarchy-tool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Hierarchy Tool",
-  "description": "Package adding colours to the hierarchy.",
+  "description": "Adds customizable colors to the Unity hierarchy window.",
   "unity": "6000.2",
+  "unityRelease": "7f2",
+  "keywords":["editor", "hierarchy", "tools", "ui"],
   "author": {
-    "name": "kamuuucka"
+    "name": "kamuuucka",
+    "url": "https://github.com/kamuuucka",
+    "changelogUrl": "https://github.com/kamuuucka/com.kamuuucka.hierarchy-tool/blob/main/CHANGELOG.md",
+    "documentationUrl": "https://github.com/kamuuucka/com.kamuuucka.hierarchy-tool#readme"
   },
+  "hideInEditor": false,
   "dependencies": {}
 }
