@@ -1,0 +1,16 @@
+{
+    "name": "com.kamuuucka.hierarchy.tool.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7b88d734792e045379f12ad1bdc4c96c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
