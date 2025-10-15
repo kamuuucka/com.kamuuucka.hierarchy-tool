@@ -13,8 +13,8 @@ namespace Kamuuucka.Hierarchy.Tool
     [Serializable]
     public class HierarchyData
     {
+        public string prefix = "===";
         public Color backgroundColor = Color.white;
         public Color textColor = Color.black;
-        public string prefix = "===";
     }
 }

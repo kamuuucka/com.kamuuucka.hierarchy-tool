@@ -1,6 +1,6 @@
 {
   "name": "com.kamuuucka.hierarchy-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Hierarchy Tool",
   "description": "Package adding colours to the hierarchy.",
   "unity": "6000.2",
